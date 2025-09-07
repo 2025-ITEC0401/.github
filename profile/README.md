@@ -3,7 +3,7 @@
 ---
 
 ### ✏️ 회의록 (Meeting Minutes)
-- 작성중
+- [2025.09.03 (수) 초기 계획 회의](https://github.com/2025-ITEC0401/docs/blob/main/minutes/2025.09.03%20(%EC%88%98)%20%EC%B4%88%EA%B8%B0%20%EA%B3%84%ED%9A%8D%20%ED%9A%8C%EC%9D%98.md)
 
 ### 🛠️ 기술 스택
 - **Software Design** : `Figma`
