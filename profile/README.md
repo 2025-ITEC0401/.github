@@ -18,5 +18,5 @@
 | <img width="130px" src="https://avatars.githubusercontent.com/u/127033666?v=4" /> | <img width="130px" src="https://avatars.githubusercontent.com/u/67568334?v=4" /> | <img width="130px" src="https://avatars.githubusercontent.com/u/30788586?v=4"/> |  <img width="130px" src="https://avatars.githubusercontent.com/u/128134239?v=4" /> |  <img width="130px" src="https://avatars.githubusercontent.com/u/77498822?v=4" /> |
 | **진동현** | **이상민** | **유지훈** | **최진혁** | **서형철** |
 |경북대학교|경북대학교|경북대학교|경북대학교|경북대학교|
-|글로벌SW전공 3학년|플랫폼SW전공 3학년|플랫폼SW전공 3학년|글로벌SW전공 3학년|플랫폼SW전공 3학년|
+|글로벌SW전공 3학년|플랫폼SW전공 3학년|플랫폼SW전공 3학년|플랫폼SW전공 3학년|플랫폼SW전공 3학년|
 |  [JinVibe](https://github.com/JinVibe)  | [lsmin3388](https://github.com/lsmin3388) |  [@JiHun Yu](https://github.com/wlgns12370)   |  [daniel0406070](https://github.com/daniel0406070)   |  [wjdqh6544](https://github.com/wjdqh6544)   |
